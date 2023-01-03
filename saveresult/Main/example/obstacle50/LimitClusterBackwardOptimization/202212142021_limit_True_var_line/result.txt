@@ -1,0 +1,42 @@
+cmp ratio ：0.7
+original ratio : 0.8005565711777649
+original var : 2599538.4310981273
+pred ratio : 0.7983414233986575
+pred var : 2598244.880641178
+MAE between ori and pred : 8.012906949460687
+MSE between ori and pred : 229.78745282893462
+
+
+cmp ratio ：0.8
+original ratio : 0.712926263173206
+original var : 2599538.4310981273
+pred ratio : 0.7118192662160443
+pred var : 2598244.880641178
+MAE between ori and pred : 8.012906949460687
+MSE between ori and pred : 229.78745282893462
+
+
+cmp ratio ：0.9
+original ratio : 0.6123397864321625
+original var : 2599538.4310981273
+pred ratio : 0.6098069627164432
+pred var : 2598244.880641178
+MAE between ori and pred : 8.012906949460687
+MSE between ori and pred : 229.78745282893462
+
+
+cmp ratio ：1
+original ratio : 0.5104858342178489
+original var : 2599538.4310981273
+pred ratio : 0.26152806769371495
+pred var : 2598244.880641178
+MAE between ori and pred : 8.012906949460687
+MSE between ori and pred : 229.78745282893462
+
+
+Original the number of shot points in obstacle : 0.0
+Pred the number of shot points in obstacle : 0.0
+original shot point number : 94446.0
+pred shot point number : 94446
+
+
